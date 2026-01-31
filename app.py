@@ -8,7 +8,7 @@ from streamlit_drawable_canvas import st_canvas
 # ------------------------------
 # Config
 # ------------------------------
-MODEL_PATH = "mnist_cnn.h5"
+MODEL_PATH = "hdr_cnn.keras"
 CANVAS_SIZE = 400
 
 # ------------------------------
